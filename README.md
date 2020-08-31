@@ -1,7 +1,8 @@
 ![Image of road map](https://camo.githubusercontent.com/f22bb956aacd059ef8819c40c55e49e700b0ea49/68747470733a2f2f692e696d6775722e636f6d2f4e4e796339514d2e706e67)
 
 
-### 👉 To start with web development you can refer above roadmap , you can start with free tutorials listed below.
+### 👉 To start with web development you can refer to this [roadmap](https://github.com/kamranahmedse/developer-roadmap)
+### Let's get started with the free tutorials listed below, shall we?
 
 ---
 
