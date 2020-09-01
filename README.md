@@ -64,7 +64,7 @@ if you prefer learning by reading docummentation are the best way to learn in de
 ## React
 
 - [How I learned React JS as a noob — Ultimate React JS Starter Guide](https://medium.com/javascript-in-plain-english/how-i-learned-react-js-as-a-noob-ultimate-react-js-starter-guide-36a05ab9495e)
-  ### It is a Comprehensive guid for React beginners
+  It is a Comprehensive guid for React beginners
 - [Manan Gouhari Documented how he learnt React(this will give you idea how to learn)](https://www.youtube.com/watch?v=bKP2FZwSlN0&list=PL1xmoAWnCP4-jEE1qK5OGS05UoZVup8Ix)
 - [An online Ide for Learning React](https://codesandbox.io/?from-app=1)
-  ### codesandbox.io will reduce incial friction while learning
+  codesandbox.io will reduce incial friction while learning
