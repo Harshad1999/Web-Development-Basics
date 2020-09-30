@@ -15,7 +15,7 @@
 ### Tutorials
 - [HTML Full Course](https://youtu.be/pQN-pnXPaVg)
 - [HTML Crash Course For Absolute Beginners](https://youtu.be/UB1O30fR-EE)
-
+---
 # CSS - Cascading Style Sheets
 - Cascading Style Sheets (CSS) is a simple mechanism for adding style (e.g., fonts, colors, spacing) to Web documents.
 ### Documentation
@@ -25,14 +25,14 @@
 - [CSS Tutorial - Zero to Hero](https://youtu.be/1Rs2ND1ryYc)
 - [CSS Crash Course For Absolute Beginners](https://youtu.be/yfoY53QXEnI)
 
-# JavaScript
+---
 
+# JavaScript
 - Here is most important part of web, JavaScript is programming language
 ### Documentation
 - [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JAVASCRIPT.INFO](https://javascript.info/)
 - [devdocs.io](https://devdocs.io/javascript/)
-
 ### Tutorials
 - Complete JavaScript Course by [Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD).
 - Vanila JavaScript by [Traversy Media](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX).
@@ -40,10 +40,8 @@
 - 30 Day Vanilla JS Coding Challenge by [Wes Bos](https://javascript30.com/).
 - JavaScript Course by [freeCodeCamp.org](https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V)
 
-
-
+---
 ## Some youtube channels you should follow for frontend and designing.
-
 - [Tanay Pratap](https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA)
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
